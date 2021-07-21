@@ -29,7 +29,9 @@ spamwatch
 speedtest-cli
 spongemock
 pymongo
-motor
+motor==2.1.0
+odmantic
+dnspython
 telethon==1.16.4
 tgcrypto
 tswift
